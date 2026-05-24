@@ -36,11 +36,9 @@ Je construis un écosystème technologique souverain articulé autour de plusieu
 
 *« La rigueur scientifique n'attend pas le nombre des années. Le code n'est qu'un outil ; le but final est l'impact humain et la conscience de notre souveraineté. »*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madiba-elate&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Statistiques de Madiba" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madiba-elate&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés par Madiba" />
-</div>
+![Statistiques de Madiba](https://github-readme-stats.vercel.app/api?username=madiba-elate&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=madiba-elate&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -48,4 +46,4 @@ Je construis un écosystème technologique souverain articulé autour de plusieu
 
 * **Domaine R&D :** [omnigroup.tech](https://omnigroup.great-site.net)
 * **Hugging Face :** [@OmniGroup](https://huggingface.co/madiba-elate)
-* **LinkedIn :** [Madiba Elate Albert Emmanuel](www.linkedin.com/in/madiba-elate)
+* **LinkedIn :** [Madiba Elate Albert Emmanuel](https://www.linkedin.com/in/madiba-elate)
