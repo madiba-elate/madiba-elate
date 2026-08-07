@@ -1,4 +1,4 @@
-# Salut, moi c'est Albert Emmanuel Madiba Elate 👋
+# Salut, moi c'est Madiba Elate Albert Emmanuel👋
 
 Je suis un jeune chercheur en informatique théorique, architecte logiciel et passionné d'intelligence artificielle basé à Douala, Cameroun. Tout en menant un parcours académique d'excellence en Première C au Lycée Joss, je consacre mon temps à concevoir des technologies de rupture et des infrastructures de bas niveau sous l'égide de mon laboratoire de R&D, **OmniGroup** (*Innovation as a vector of sovereignty*).
 
