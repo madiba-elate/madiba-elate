@@ -32,7 +32,7 @@
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n" width="48" height="48"><br><sub><b>n8n</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="48" height="48"><br><sub><b>AWS</b></sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48"><br><sub><b>AWS</b></sub></td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48"><br><sub><b>Docker</b></sub></td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="48" height="48"><br><sub><b>Kubernetes</b></sub></td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48"><br><sub><b>TensorFlow</b></sub></td>
