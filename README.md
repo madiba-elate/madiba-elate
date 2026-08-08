@@ -24,10 +24,10 @@
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48"><br><sub><b>React & Native</b></sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48"><br><sub><b>React</b></sub></td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48"><br><sub><b>Node.js</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"><br><sub><b>Python AI</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"><br><sub><b>C++ / Genesis</b></sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"><br><sub><b>C++</b></sub></td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48"><br><sub><b>Flutter</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n" width="48" height="48"><br><sub><b>n8n</b></sub></td>
   </tr>
@@ -41,11 +41,11 @@
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48"><br><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="48" height="48"><br><sub><b>Solidity</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="48" height="48"><br><sub><b>Rust</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"><br><sub><b>Linux Infra</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/solidity/white" width="48" height="48"><br><sub><b>Solidity</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/rust/white" width="48" height="48"><br><sub><b>Rust</b></sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"><br><sub><b>Linux</b></sub></td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48"><br><sub><b>Redis</b></sub></td>
-    <td align="center" width="96"><div style="font-size:40px;line-height:48px;">🦜</div><br><sub><b>LangChain</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain" width="48" height="48"><br><sub><b>LangChain</b></sub></td>
   </tr>
 </table>
 
