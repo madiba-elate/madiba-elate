@@ -53,19 +53,13 @@
 
 ---
 
-## 📊 Activité GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madiba-elate&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madiba-elate&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
----
-
-## 🎯 Objectifs 2025-2026 — La Route Continue
+## 🎯 Objectifs 2026
 
 - [ ] **Admission MIT / Ivy League** — Computer Science
 - [ ] **Genesis MVP** — Parser, AST, compilateur WASM fonctionnel
-- [ ] **Pangea AI** — LLM langues africaines (pre-training + fine-tune)
 - [ ] **Prometheus v1** — Agent autonome 24/7 stable
+- [ ] **Krypton** — Version stable, messagerie privée sécurité maximale
+- [ ] **Pangea AI** — LLM langues africaines (pre-training + fine-tune)
 - [ ] **Micro-SaaS FinTech** — Tontines numériques, inclusion bancaire Cameroun
 
 ---
