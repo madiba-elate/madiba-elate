@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Madiba Elate Albert Emmanuel
 
-**Étudiant en Terminale C • Passionné tech • Apprenti bâtisseur @ OmniGroup**  
+**Étudiant en Terminale C • Passionné tech • Apprenti bâtisseur**  
 *Innovation as a vector of sovereignty* 🇨🇲
 
 ---
@@ -14,20 +14,24 @@
 
 ---
 
-## 🏛️ OmniGroup — Mon Laboratoire d'Apprentissage
+## 🧪 Mes Projets GitHub — Ce que je construis publiquement
 
-Un espace où j'expérimente, je rate, j'apprends, je recommence. Six piliers pour structurer ma curiosité :
-
-| Pilier | Ce que j'explore | Stack en cours d'apprentissage |
-|--------|------------------|-------------------------------|
-| **Gamma Technologies** | Genesis Language, CodeFlow IDE, compilateurs | C++, Rust, TypeScript, WASM |
-| **Omnitech Dynamics** | Infra, cloud, orchestration, conteneurs | Docker, K8s, Terraform, Go |
-| **OmniCybersecurity** | Sécu offensive/défensive, audit, bas niveau | Python, BPF, eBPF, Rust |
-| **OmniSite** | Web, micro-SaaS, FinTech inclusion | Next.js, PostgreSQL, Redis |
-| **OmniGame** | Game dev, moteurs, graphismes bas niveau | C++, Vulkan, Godot |
-| **OmniSocial-Impact** | Inclusion financière, tontines numériques | Flutter, Blockchain, Mobile |
-
-🤗 **Hugging Face** : [madiba-elate](https://huggingface.co/madiba-elate)
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| **[Genesis](https://github.com/madiba-elate/Genesis)** | Écosystème unifié dev (web, mobile, embarqué, data) — syntaxe unifiée, compilation adaptative | C++, Rust, TypeScript, WASM |
+| **[Proton](https://github.com/madiba-elate/Proton)** | Toolchain dev accélérée (ProtonPy, ProtonCSS, ProtonJS, ProtonBones) | Python, CSS, JS, Rust |
+| **[CodeFlow](https://github.com/madiba-elate/CodeFlow)** | IDE open source pour tous | TypeScript, Electron/Tauri |
+| **[Prometheus](https://github.com/madiba-elate/Prometheus)** | Desktop chat (opencode) + agent CLI autonome 24/7 (openclaw) — modèles IA unifiés | Go, TypeScript, Tauri |
+| **[Softbuild](https://github.com/madiba-elate/Softbuild)** | Outil agentique créer/déployer/maintenir logiciels | TypeScript, IA |
+| **[SaasKraft](https://github.com/madiba-elate/SaasKraft)** | Outil agentique IA pour SaaS à la demande | TypeScript, IA |
+| **[Pangea-AI](https://github.com/madiba-elate/Pangea-AI)** | Modèle IA souverain langues africaines | PyTorch, Hugging Face |
+| **[Neo-Tansformers](https://github.com/madiba-elate/Neo-Tansformers)** | Nouvelle architecture post-transformers | PyTorch, Research |
+| **[Atom](https://github.com/madiba-elate/Atom)** | Modèle IA ultra-compact pour agentique locale | PyTorch, GGUF, ONNX |
+| **[Krypton](https://github.com/madiba-elate/Krypton)** | Messagerie privée sécurité maximale | Rust, Cryptographie |
+| **[Poiesis](https://github.com/madiba-elate/Poiesis)** | DSL sémantique pour création artistique | Rust, DSL, Parser |
+| **[Ether](https://github.com/madiba-elate/Ether)** | Distro Linux pilotée par IA (CAGI) | Rust, Linux, systemd |
+| **[S.M.A.R.T](https://github.com/madiba-elate/S.M.A.R.T)** | Assistant éducatif secondaire/étudiants (JSI 2025-2026 Littoral) | Flutter, IA |
+| **[glide](https://github.com/madiba-elate/glide)** | Bureau flottant P2P dans un onglet, partageable par lien | WebRTC, TypeScript |
 
 ---
 
@@ -75,9 +79,9 @@ Un espace où j'expérimente, je rate, j'apprends, je recommence. Six piliers po
 ## 🎯 Objectifs 2025-2026 — La Route Continue
 
 - [ ] **Admission MIT / Ivy League** — Computer Science
-- [ ] **OmniGroup v1** — Infra souveraine opérationnelle (apprise de A à Z)
-- [ ] **Genesis Language MVP** — Parser, AST, compilateur WASM
+- [ ] **Genesis MVP** — Parser, AST, compilateur WASM fonctionnel
 - [ ] **Pangea AI** — LLM langues africaines (pre-training + fine-tune)
+- [ ] **Prometheus v1** — Agent autonome 24/7 stable
 - [ ] **Micro-SaaS FinTech** — Tontines numériques, inclusion bancaire Cameroun
 
 ---
