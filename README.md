@@ -58,6 +58,8 @@
 - [ ] **Genesis MVP** — Parser, AST, compilateur WASM fonctionnel
 - [ ] **Prometheus v1** — Agent autonome 24/7 stable
 - [ ] **Krypton** — Version stable, messagerie privée sécurité maximale
+- [ ] **Poiesis v1** — DSL sémantique de création artistique opérationnel
+- [ ] **S.M.A.R.T** — Version production
 
 ---
 
