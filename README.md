@@ -45,7 +45,7 @@
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/rust/white" width="48" height="48"><br><sub><b>Rust</b></sub></td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"><br><sub><b>Linux</b></sub></td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48"><br><sub><b>Redis</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain" width="48" height="48"><br><sub><b>LangChain</b></sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=7FC8FF" width="48" height="48"><br><sub><b>LangChain</b></sub></td>
   </tr>
 </table>
 
