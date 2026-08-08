@@ -47,140 +47,23 @@
     <td align="center" width="96"><img src="icons/redis.svg" width="48" height="48"><br><sub><b>Redis</b></sub></td>
     <td align="center" width="96"><img src="icons/langchain.svg" width="48" height="48"><br><sub><b>LangChain</b></sub></td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="icons/sql.svg" width="48" height="48"><br><sub><b>SQL</b></sub></td>
+    <td align="center" width="96"><img src="icons/git.svg" width="48" height="48"><br><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><img src="icons/bash.svg" width="48" height="48"><br><sub><b>Shell/Bash</b></sub></td>
+    <td align="center" width="96"><img src="icons/datascience.svg" width="48" height="48"><br><sub><b>Data Science</b></sub></td>
+    <td align="center" width="96"><img src="icons/ml.svg" width="48" height="48"><br><sub><b>Machine Learning</b></sub></td>
+    <td align="center" width="96"><img src="icons/openai.svg" width="48" height="48"><br><sub><b>OpenAI API</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="icons/huggingface.svg" width="48" height="48"><br><sub><b>Hugging Face</b></sub></td>
+    <td align="center" width="96"><img src="icons/tableau.svg" width="48" height="48"><br><sub><b>Tableau</b></sub></td>
+    <td align="center" width="96"><img src="icons/mlops.svg" width="48" height="48"><br><sub><b>MLOps</b></sub></td>
+    <td align="center" width="96"><img src="icons/datagovernance.svg" width="48" height="48"><br><sub><b>Data Governance</b></sub></td>
+    <td align="center" width="96"><img src="icons/cloud.svg" width="48" height="48"><br><sub><b>Cloud</b></sub></td>
+    <td align="center" width="96"><img src="icons/pinecone.svg" width="48" height="48"><br><sub><b>Pinecone</b></sub></td>
+  </tr>
 </table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📜 certifications DataCamp (70+ cours terminés)
-
-<details>
-<summary><b>🤖 IA & Machine Learning</b></summary>
-
-- Introduction aux GPT
-- Concepts d'IA générative
-- Comprendre le Machine Learning
-- Concepts des grands modèles de langage (LLM)
-- Éthique de l'IA
-- Pratiques responsables en matière d'IA
-- Gouvernance de l'IA
-- Implémentation IA en entreprise
-- Stratégie IA
-- Generative AI pour l'entreprise
-- Large Language Models for Business
-- Comprendre l'intelligence artificielle
-- Introduction à l'IA pour le travail
-- Comprendre ChatGPT
-- Introduction à ChatGPT
-- ChatGPT niveau intermédiaire
-- Présentation de Microsoft Copilot
-
-</details>
-
-<details>
-<summary><b>🔗 LangChain & Agents IA</b></summary>
-
-- Concevoir des systèmes agentiques avec LangChain
-- Retrieval Augmented Generation (RAG) avec LangChain
-- Développement d'applications LLM avec LangChain
-- Concevoir des systèmes agentiques évolutifs
-- Introduction aux agents d'IA
-
-</details>
-
-<details>
-<summary><b>🔌 API OpenAI & Embeddings</b></summary>
-
-- Systèmes multimodaux avec l'API OpenAI
-- Concevoir des systèmes d'IA avec l'API OpenAI
-- Ingénierie des prompts avec l'API OpenAI
-- Travailler avec l'API OpenAI
-- Introduction aux embeddings avec l'API OpenAI
-- Nettoyer des données avec l'IA générative
-- Coder avec l'aide de l'IA pour les développeurs
-- Coder en mode Vibe avec Replit
-- Comprendre l'ingénierie des prompts
-
-</details>
-
-<details>
-<summary><b>📊 Data Science & Analytics</b></summary>
-
-- Comprendre la Data Science
-- Introduction aux données
-- Introduction à la qualité des données
-- Introduction à la culture des données
-- Formuler des questions analytiques
-- Concepts de communication des données
-- Principes clés du Data Storytelling
-- Communicating Data Insights
-- Comprendre la visualisation des données
-- Introduction à Tableau
-- Concepts de conception de tableaux de bord
-- Décisions fondées sur les données en entreprise
-- Introduction à la maîtrise de la donnée
-
-</details>
-
-<details>
-<summary><b>🐍 Python</b></summary>
-
-- Introduction à Python
-- Python intermédiaire pour les développeurs
-- Introduction à Python pour les développeurs
-- Écrire du code Python efficace
-- Boîte à outils Python
-- Types de données en Python
-- Écrire des fonctions en Python
-- Expressions rationnelles en Python
-- Utilisation des dates et des heures en Python
-- Principes d'ingénierie logicielle en Python
-- Programmation orientée objet intermédiaire en Python
-- Introduction à la programmation orientée objet en Python
-
-</details>
-
-<details>
-<summary><b>🗄️ SQL & Data Engineering</b></summary>
-
-- Introduction au SQL
-- Présentation de l'ingénierie des données
-- Concepts d'entreposage de données
-- Concepts de streaming
-
-</details>
-
-<details>
-<summary><b>🔐 Gouvernance & Sécurité des données</b></summary>
-
-- Introduction à la sécurité des données
-- Concepts de gouvernance des données
-- Introduction à la protection des données
-
-</details>
-
-<details>
-<summary><b>⚙️ MLOps & LLMOps</b></summary>
-
-- Concepts MLOps
-- Concepts LLMOps
-
-</details>
-
-<details>
-<summary><b>🔧 Git, Shell & Cloud</b></summary>
-
-- Introduction à Git
-- Git intermédiaire
-- Introduction au shell
-- Comprendre le cloud
-- Travailler avec Hugging Face
-- Créer des applications d'IA avec Pinecone
-
-</details>
 
 </div>
 
