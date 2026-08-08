@@ -5,20 +5,11 @@
 
 ---
 
-## 🎯 En ce moment
-
-- 🎓 **Terminale C** au Lycée Joss — Objectif : 20/20 (*Academic Supremacy*)
-- 🏗️ Construction d'**OmniGroup** : Holding tech souverain (Douala / Global Digital)
-- 🤖 Développement de **J.A.R.V.I.S** — Agent IA personnel (Hermes + OpenClaw)
-- ☁️ Migration infrastructure vers cloud souverain (Oracle Ampere / Railway)
-
----
-
 ## 🏛️ OmniGroup — Écosystème Technologique Souverain
 
 | Pilier | Focus | Stack Clé |
 |--------|-------|-----------|
-| **Gamma Technologies** | R&D Core, Genesis Language, CodeFlow IDE | C++, Rust, TypeScript, WASM |
+| **Gamma Technologies** | Genesis Language, CodeFlow IDE | C++, Rust, TypeScript, WASM |
 | **Omnitech Dynamics** | Infrastructure, Cloud, Orchestration | Docker, K8s, Terraform, Go |
 | **OmniCybersecurity** | Sécurité offensive/défensive, Audit | Python, BPF, eBPF, Rust |
 | **OmniSite** | Web Platform, Micro-SaaS FinTech | Next.js, PostgreSQL, Redis |
@@ -54,7 +45,7 @@
 
 - **Core** : Hermes Agent (local-first, Docker)
 - **Modèle** : `nvidia/nemotron-3-ultra-550b-a55b:free` via OpenRouter
-- **Interfaces** : CLI, Telegram, Web, Voice (TTS/STT)
+- **Interfaces** : CLI, Web, Voice (TTS/STT)
 - **Skills** : 20+ catégories (devops, research, media, smart-home, github, etc.)
 - **Mémoire** : Persistante, profil utilisateur actif
 - **Automatisation** : Cron, Kanban, Delegation, Computer Use
@@ -82,11 +73,10 @@
 
 | Plateforme | Lien |
 |------------|------|
-| **R&D / Portfolio** | [omnigroup.tech](https://omnigroup.tech) |
+| **Portfolio** | [omnigroup.tech](https://omnigroup.tech) |
 | **Hugging Face** | [@madiba-elate](https://huggingface.co/madiba-elate) |
 | **LinkedIn** | [Madiba Elate Albert Emmanuel](https://linkedin.com/in/madiba-elate) |
 | **GitHub** | [@madiba-elate](https://github.com/madiba-elate) |
-| **Telegram** | [@MadibaElate](https://t.me/MadibaElate) |
 
 ---
 
