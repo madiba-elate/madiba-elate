@@ -16,8 +16,6 @@
 | **OmniGame** | Game Dev, Moteurs bas niveau | C++, Vulkan, Unity/Godot |
 | **OmniSocial-Impact** | Inclusion financière, Tontines numériques | Flutter, Blockchain, Mobile |
 
-🌐 **Domaine cible** : `omnigroup.tech` | 🤗 **Hugging Face** : [madiba-elate](https://huggingface.co/madiba-elate)
-
 ---
 
 ## ⚡ Stack Technique
@@ -73,7 +71,6 @@
 
 | Plateforme | Lien |
 |------------|------|
-| **Portfolio** | [omnigroup.tech](https://omnigroup.tech) |
 | **Hugging Face** | [@madiba-elate](https://huggingface.co/madiba-elate) |
 | **LinkedIn** | [Madiba Elate Albert Emmanuel](https://linkedin.com/in/madiba-elate) |
 | **GitHub** | [@madiba-elate](https://github.com/madiba-elate) |
