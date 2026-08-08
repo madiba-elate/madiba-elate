@@ -55,12 +55,9 @@
 
 ## 🎯 Objectifs 2026
 
-- [ ] **Admission MIT / Ivy League** — Computer Science
 - [ ] **Genesis MVP** — Parser, AST, compilateur WASM fonctionnel
 - [ ] **Prometheus v1** — Agent autonome 24/7 stable
 - [ ] **Krypton** — Version stable, messagerie privée sécurité maximale
-- [ ] **Pangea AI** — LLM langues africaines (pre-training + fine-tune)
-- [ ] **Micro-SaaS FinTech** — Tontines numériques, inclusion bancaire Cameroun
 
 ---
 
