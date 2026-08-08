@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Madiba Elate Albert Emmanuel
 
-**Étudiant en Terminale C • Passionné tech • Apprenti bâtisseur**  
+**Passionné de science, de tech et du savoir**  
 *Innovation as a vector of sovereignty* 🇨🇲
 
 ---
@@ -9,7 +9,7 @@
 
 - 🎓 **Terminale C** au Lycée Joss — Objectif : 20/20 (*Academic Supremacy*)
 - 🏗️ Apprentissage continu : architectures, IA, bas niveau, cloud
-- ☁️ Exploration infrastructure : Oracle Ampere, Railway, Docker, K8s
+- ☁️ Exploration de l'infrastructure : Oracle Ampere, Railway, Docker, K8s
 
 ---
 
