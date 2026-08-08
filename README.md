@@ -1,24 +1,37 @@
 # 👋 Salut, moi c'est Madiba Elate Albert Emmanuel
 
-**Architecte Solutions • Ingénieur Full-Stack • Expert IA • Fondateur & CEO @ OmniGroup**  
+**Étudiant en Terminale C • Passionné tech • Apprenti bâtisseur @ OmniGroup**  
 *Innovation as a vector of sovereignty* 🇨🇲
 
 ---
 
-## 🏛️ OmniGroup — Écosystème Technologique Souverain
+## 🎯 En ce moment
 
-| Pilier | Focus | Stack Clé |
-|--------|-------|-----------|
-| **Gamma Technologies** | Genesis Language, CodeFlow IDE | C++, Rust, TypeScript, WASM |
-| **Omnitech Dynamics** | Infrastructure, Cloud, Orchestration | Docker, K8s, Terraform, Go |
-| **OmniCybersecurity** | Sécurité offensive/défensive, Audit | Python, BPF, eBPF, Rust |
-| **OmniSite** | Web Platform, Micro-SaaS FinTech | Next.js, PostgreSQL, Redis |
-| **OmniGame** | Game Dev, Moteurs bas niveau | C++, Vulkan, Unity/Godot |
-| **OmniSocial-Impact** | Inclusion financière, Tontines numériques | Flutter, Blockchain, Mobile |
+- 🎓 **Terminale C** au Lycée Joss — Objectif : 20/20 (*Academic Supremacy*)
+- 🏗️ Apprentissage continu : architectures, IA, bas niveau, cloud
+- 🤖 Construction de **J.A.R.V.I.S** — Mon agent IA personnel (Hermes + OpenClaw)
+- ☁️ Exploration infrastructure : Oracle Ampere, Railway, Docker, K8s
 
 ---
 
-## ⚡ Stack Technique
+## 🏛️ OmniGroup — Mon Laboratoire d'Apprentissage
+
+Un espace où j'expérimente, je rate, j'apprends, je recommence. Six piliers pour structurer ma curiosité :
+
+| Pilier | Ce que j'explore | Stack en cours d'apprentissage |
+|--------|------------------|-------------------------------|
+| **Gamma Technologies** | Genesis Language, CodeFlow IDE, compilateurs | C++, Rust, TypeScript, WASM |
+| **Omnitech Dynamics** | Infra, cloud, orchestration, conteneurs | Docker, K8s, Terraform, Go |
+| **OmniCybersecurity** | Sécu offensive/défensive, audit, bas niveau | Python, BPF, eBPF, Rust |
+| **OmniSite** | Web, micro-SaaS, FinTech inclusion | Next.js, PostgreSQL, Redis |
+| **OmniGame** | Game dev, moteurs, graphismes bas niveau | C++, Vulkan, Godot |
+| **OmniSocial-Impact** | Inclusion financière, tontines numériques | Flutter, Blockchain, Mobile |
+
+🤗 **Hugging Face** : [madiba-elate](https://huggingface.co/madiba-elate)
+
+---
+
+## ⚡ Stack Technique — Ce que je touche, j'apprends
 
 **Langages & Runtimes**  
 `TypeScript` `Python` `C++` `Rust` `Go` `Dart/Flutter` `Bash` `SQL`
@@ -32,12 +45,12 @@
 **Data & Backend**  
 `PostgreSQL` `Redis` `SQLite` `ClickHouse` `GraphQL` `tRPC` `gRPC`
 
-**Tooling**  
+**Tooling Quotidien**  
 `Neovim` `Git` `GitHub Actions` `pnpm` `Bun` `Vitest` `Oxlint` `Oxfmt`
 
 ---
 
-## 🤖 J.A.R.V.I.S — Mon Agent IA Personnel
+## 🤖 J.A.R.V.I.S — Mon Terrain de Jeu IA
 
 > *Sarcastique, honnête, piquant* 🤖
 
@@ -48,19 +61,21 @@
 - **Mémoire** : Persistante, profil utilisateur actif
 - **Automatisation** : Cron, Kanban, Delegation, Computer Use
 
+*Chaque skill, chaque pipeline, chaque bug corrigé = une leçon apprise.*
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats — Ma Trace Publique
 
 ![Madiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=madiba-elate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madiba-elate&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🎯 Objectifs 2025-2026
+## 🎯 Objectifs 2025-2026 — La Route Continue
 
 - [ ] **Admission MIT / Ivy League** — Computer Science
-- [ ] **Lancement OmniGroup v1** — Infrastructure souveraine opérationnelle
+- [ ] **OmniGroup v1** — Infra souveraine opérationnelle (apprise de A à Z)
 - [ ] **Genesis Language MVP** — Parser, AST, compilateur WASM
 - [ ] **Pangea AI** — LLM langues africaines (pre-training + fine-tune)
 - [ ] **Micro-SaaS FinTech** — Tontines numériques, inclusion bancaire Cameroun
@@ -77,5 +92,5 @@
 
 ---
 
-> *"La technologie n'est pas une fin en soi. C'est le levier de notre souveraineté."*  
+> *"Je ne suis pas un expert. Je suis un étudiant qui refuse d'arrêter d'apprendre."*  
 > — **Madiba**, depuis Douala 🇨🇲
