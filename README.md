@@ -9,7 +9,6 @@
 
 - 🎓 **Terminale C** au Lycée Joss — Objectif : 20/20 (*Academic Supremacy*)
 - 🏗️ Apprentissage continu : architectures, IA, bas niveau, cloud
-- 🤖 Construction de **J.A.R.V.I.S** — Mon agent IA personnel (Hermes + OpenClaw)
 - ☁️ Exploration infrastructure : Oracle Ampere, Railway, Docker, K8s
 
 ---
@@ -54,25 +53,10 @@
 
 ---
 
-## 🤖 J.A.R.V.I.S — Mon Terrain de Jeu IA
+## 📊 Activité GitHub
 
-> *Sarcastique, honnête, piquant* 🤖
-
-- **Core** : Hermes Agent (local-first, Docker)
-- **Modèle** : `nvidia/nemotron-3-ultra-550b-a55b:free` via OpenRouter
-- **Interfaces** : CLI, Web, Voice (TTS/STT)
-- **Skills** : 20+ catégories (devops, research, media, smart-home, github, etc.)
-- **Mémoire** : Persistante, profil utilisateur actif
-- **Automatisation** : Cron, Kanban, Delegation, Computer Use
-
-*Chaque skill, chaque pipeline, chaque bug corrigé = une leçon apprise.*
-
----
-
-## 📊 GitHub Stats — Ma Trace Publique
-
-![Madiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=madiba-elate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madiba-elate&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madiba-elate&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madiba-elate&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
 ---
 
