@@ -101,4 +101,5 @@
   <a href="https://huggingface.co/madiba-elate"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat" alt="Hugging Face"></a>
   <a href="https://linkedin.com/in/madiba-elate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"></a>
   <a href="https://github.com/madiba-elate"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub"></a>
+  <a href="https://x.com/madiba_elate"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X"></a>
 </p>
