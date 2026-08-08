@@ -7,7 +7,7 @@
 
 ## 🎯 En ce moment
 
-- 🎓 **Terminale C** au Lycée Joss — Objectif : 20/20 (*Academic Supremacy*)
+- 🎓 **Terminale C** au Lycée Joss — Objectif : 18/20 (*Academic Supremacy*)
 - 🏗️ Apprentissage continu : architectures, IA, bas niveau, cloud
 - ☁️ Exploration de l'infrastructure : Oracle Ampere, Railway, Docker, K8s
 
@@ -71,5 +71,5 @@
 
 ---
 
-> *"Je ne suis pas un expert. Je suis un étudiant qui refuse d'arrêter d'apprendre."*  
-> — **Madiba**, depuis Douala 🇨🇲
+> *"S'adapter en permanence pour résoudre des problèmes."*  
+> — **Madiba Elate**
