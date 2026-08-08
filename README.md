@@ -63,6 +63,14 @@
     <td align="center" width="96"><img src="icons/cloud.svg" width="48" height="48"><br><sub><b>Cloud</b></sub></td>
     <td align="center" width="96"><img src="icons/pinecone.svg" width="48" height="48"><br><sub><b>Pinecone</b></sub></td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="icons/go.svg" width="48" height="48"><br><sub><b>Go</b></sub></td>
+    <td align="center" width="96"><img src="icons/javascript.svg" width="48" height="48"><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="icons/shell.svg" width="48" height="48"><br><sub><b>Shell</b></sub></td>
+    <td align="center" width="96"><img src="icons/html.svg" width="48" height="48"><br><sub><b>HTML</b></sub></td>
+    <td align="center" width="96"><img src="icons/css.svg" width="48" height="48"><br><sub><b>CSS</b></sub></td>
+    <td align="center" width="96"><br></td>
+  </tr>
 </table>
 
 </div>
