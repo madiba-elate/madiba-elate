@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 🛠️ compétences
+## 🛠️ Je construis des solutions avec :
 
 <table>
   <tr>
