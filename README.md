@@ -24,28 +24,28 @@
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48"><br><sub><b>React</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48"><br><sub><b>Node.js</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"><br><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"><br><sub><b>C++</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48"><br><sub><b>Flutter</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n" width="48" height="48"><br><sub><b>n8n</b></sub></td>
+    <td align="center" width="96"><img src="icons/react.svg" width="48" height="48"><br><sub><b>React</b></sub></td>
+    <td align="center" width="96"><img src="icons/nodejs.svg" width="48" height="48"><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="96"><img src="icons/python.svg" width="48" height="48"><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="icons/cpp.svg" width="48" height="48"><br><sub><b>C++</b></sub></td>
+    <td align="center" width="96"><img src="icons/flutter.svg" width="48" height="48"><br><sub><b>Flutter</b></sub></td>
+    <td align="center" width="96"><img src="icons/n8n.svg" width="48" height="48"><br><sub><b>n8n</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48"><br><sub><b>AWS</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48"><br><sub><b>Docker</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="48" height="48"><br><sub><b>Kubernetes</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48"><br><sub><b>TensorFlow</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48"><br><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48"><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="96"><img src="icons/aws.svg" width="48" height="48"><br><sub><b>AWS</b></sub></td>
+    <td align="center" width="96"><img src="icons/docker.svg" width="48" height="48"><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="icons/kubernetes.svg" width="48" height="48"><br><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="96"><img src="icons/tensorflow.svg" width="48" height="48"><br><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="96"><img src="icons/postgresql.svg" width="48" height="48"><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="96"><img src="icons/mongodb.svg" width="48" height="48"><br><sub><b>MongoDB</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48"><br><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/solidity/white" width="48" height="48"><br><sub><b>Solidity</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/rust/white" width="48" height="48"><br><sub><b>Rust</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"><br><sub><b>Linux</b></sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48"><br><sub><b>Redis</b></sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=7FC8FF" width="48" height="48"><br><sub><b>LangChain</b></sub></td>
+    <td align="center" width="96"><img src="icons/typescript.svg" width="48" height="48"><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="icons/solidity.svg" width="48" height="48"><br><sub><b>Solidity</b></sub></td>
+    <td align="center" width="96"><img src="icons/rust.svg" width="48" height="48"><br><sub><b>Rust</b></sub></td>
+    <td align="center" width="96"><img src="icons/linux.svg" width="48" height="48"><br><sub><b>Linux</b></sub></td>
+    <td align="center" width="96"><img src="icons/redis.svg" width="48" height="48"><br><sub><b>Redis</b></sub></td>
+    <td align="center" width="96"><img src="icons/langchain.svg" width="48" height="48"><br><sub><b>LangChain</b></sub></td>
   </tr>
 </table>
 
