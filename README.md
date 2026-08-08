@@ -1,10 +1,16 @@
-# Salut, moi c'est Madiba Elate Albert Emmanuel 👋
+[![welcome to my github profile](gifs/typing.gif)](#)
 
-**Passionné de science, de tech et du savoir** 🚀🔬
+**i love science** 🚀 **i love code** ⌨️ **and i love learning** 📚
 
-En **Terminale C** au Lycée Joss 🎓 — Objectif : 18/20
+[![robot](gifs/robot.gif)](#)
 
-j'adore coder ⌨️ et apprendre 📚 — je construis, je casse, je répare, je recommence.
+---
+
+**Salut, moi c'est Madiba Elate Albert Emmanuel** 👋
+
+Passionné de science, de tech et du savoir — en **Terminale C** au Lycée Joss 🎓 Objectif : 18/20
+
+je construis, je casse, je répare, je recommence 🔧
 
 ---
 
@@ -15,6 +21,8 @@ j'adore coder ⌨️ et apprendre 📚 — je construis, je casse, je répare, j
 **[Krypton](https://github.com/madiba-elate/Krypton)** — messagerie privée sécurité maximale 🔐
 **[Poiesis](https://github.com/madiba-elate/Poiesis)** — DSL pour la création artistique 🎨
 **[S.M.A.R.T](https://github.com/madiba-elate/S.M.A.R.T)** — assistant éducatif pour élèves et étudiants 🎓
+
+[![hacker](gifs/hacker.gif)](#)
 
 ---
 
@@ -29,6 +37,8 @@ j'adore coder ⌨️ et apprendre 📚 — je construis, je casse, je répare, j
 ---
 
 > *"S'adapter en permanence pour résoudre des problèmes."* — **Madiba Elate**
+
+[![rocket](gifs/rocket.gif)](#)
 
 ---
 
