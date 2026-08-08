@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="gifs/typing.gif" alt="welcome to my github profile" width="80">
+  <img src="gifs/welcome-header.gif" alt="welcome to my github profile" width="400">
 </p>
 
 <p align="center">
-  <b>i love science</b> 🔬 <img src="gifs/robot.gif" alt="robot" width="60"> <b>i love code</b> ⌨️ <b>and i love learning</b> 📚
+  <b>i love science</b> <img src="gifs/science.gif" alt="science" width="50"> <b>i love coding</b> <img src="gifs/robot.gif" alt="robot" width="50"> <b>and i love learning</b> <img src="gifs/learning.gif" alt="learning" width="50">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 </div>
 
 <p align="center">
-  <img src="gifs/hacker.gif" alt="hacker" width="60">
+  <img src="gifs/hacker.gif" alt="hacker" width="50">
 </p>
 
 <div align="center">
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="gifs/rocket.gif" alt="rocket" width="60">
+  <img src="gifs/rocket.gif" alt="rocket" width="50">
 </p>
 
 <br>
